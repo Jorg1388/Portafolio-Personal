@@ -1,0 +1,134 @@
+.contenido {
+    width: 1440px;
+    height: 2169px;
+    background-color: black;
+
+}
+
+.img {
+    width: 213px;
+    height: 213px;
+    margin-top: 180px;
+    margin-left: 598px;
+    border-radius: 100%;
+}
+
+.titulo {
+    width: 800px;
+    height: 127px;
+    margin-top: 50px;
+    margin-left: 384px;
+    font-size: 55px;
+    font-weight: 800;
+    color: #FFFFFF;
+}
+
+.introduccion {
+    width: 679px;
+    height: 108px;
+    font-size: 18px;
+    font-weight: 300;
+    margin-left: 384px;
+    display: flex;
+    text-align: center;
+    color: #C5C5C5;
+}
+
+.github {
+    width: 195px;
+    height: 64px;
+    border-radius: 50px;
+    background-color: #FFFFFF;
+    margin-left: 608px;
+    margin-top: 150px;
+}
+
+.img2 {
+    width: 60px;
+    height: 35px;
+    margin-top: 16px;
+    margin-left: 70px;
+}
+
+.titulo2 {
+    width: 250px;
+    height: 30px;
+    margin-top: 80px;
+    margin-left: 600px;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color: #C5C5C5;
+}
+
+.logos {
+    width: 446.82px;
+    height: 42px;
+    display: flex;
+    margin-top: 60px;
+    margin-left: 465px;
+    gap: 50px;
+}
+
+.java {
+    width: 60px;
+    height: 60px;
+}
+
+.html {
+    width: 60px;
+    height: 60px;
+    margin-top: 5px;
+}
+
+.sql {
+    width: 60px;
+    height: 60px;
+    margin-top: 5px;
+}
+
+.css {
+    width: 60px;
+    height: 60px;
+    margin-top: 5px;
+}
+
+.git{
+    width: 60px;
+    height: 60px;
+    margin-top: 5px;
+}
+
+.titulo3 {
+    width: 182px;
+    height: 36px;
+    margin-top: 120px;
+    margin-left: 625px;
+    font-size: 45px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #D5491D;
+}
+
+.titulo4 {
+    width: 236px;
+    height: 36px;
+    margin-top: 35px;
+    margin-left: 613px;
+    font-size: 45px;
+    font-weight: 800;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #1373D1;
+}
+
+.experiencia {
+    width: 679px;
+    height: 108px;
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-left: 384px;
+    display: flex;
+    text-align: center;
+    color: #8491A0;
+}

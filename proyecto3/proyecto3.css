@@ -1,0 +1,51 @@
+.proyecto3 {
+    width: 390px;
+    height: 301px;
+    margin-left: 950px;
+    margin-top: -300px;
+    border-radius: 18px;
+    border: 1px solid #222222;
+}
+
+.calcu {
+    display: flex;
+    margin: auto;
+    width: 389px;
+    height: 235px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+}
+
+.rectangle {
+    width: 390px;
+    height: 66px;
+    margin-top: -1px;
+    margin-left: -1px;
+    border-bottom-left-radius: 18px;
+    border-bottom-right-radius: 18px;
+    background-color: #222222;
+}
+
+.link {
+    width: 105px;
+    height: 19px;
+    margin-left: 40px;
+    padding-top: 15px;
+    font-size: 10px;
+    font-weight: 800;
+    color: white;
+}
+
+.nombre {
+    width: 400px;
+    height: 20px;
+    margin-left: 40px;
+    padding-top: 15px;
+    font-size: 15px;
+    font-weight: 800;
+    color: white;
+}
+
+.flecha {
+    margin-left: 350px;
+}

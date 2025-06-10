@@ -1,0 +1,45 @@
+.footer {
+    width: 1440px;
+    height: 418.76px;
+    background-color: #191919;
+}
+
+.contact {
+    width: 101px;
+    height: 35px;
+    padding-top: 82px;
+    margin-left: 324px;
+    font-weight: 700;
+    font-size: 26px;
+    color: #FFFFFF;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.info {
+    width: 676px;
+    height: 63px;
+    padding-top: 80px;
+    margin-left: 325px;
+    font-weight: 300;
+    font-size: 14.12px;
+    color: #C5C5C5;
+
+}
+
+.email {
+    margin-left: 325px;
+    padding-top: 120px;
+}
+
+.correo {
+    margin-left: 350px;
+    margin-top: -22px;
+    font-weight: 600;
+    font-size: 14px;
+    color: #C5C5C5;
+}
+
+.icons {
+    margin-left: 325px;
+    padding-top: 40px;
+}

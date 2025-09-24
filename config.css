@@ -9,8 +9,11 @@ html {
     font-family: monospace;
 }
 
+/* Responsive para móviles */
 @media (max-width: 768px) {
-  body {
-    zoom: 0.26; /* Ajusta el valor según lo que se vea bien */
-  }
+    .pantalla {
+        width: 100%;       /* que ocupe todo el ancho del móvil */
+        transform: scale(0.25);  /* escala proporcional */
+        transform-origin: top center; /* se centra arriba */
+    }
 }

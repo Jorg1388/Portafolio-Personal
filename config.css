@@ -9,11 +9,22 @@ html {
     font-family: monospace;
 }
 
-/* Responsive para móviles */
+/* Contenedor que centra */
+.pantalla-wrapper {
+    display: flex;
+    justify-content: center; /* centra horizontalmente */
+    width: 100%;
+}
+
+/* Pantalla principal */
+.pantalla {
+    width: 1440px; /* tamaño original */
+}
+
+/* Responsive móvil */
 @media (max-width: 768px) {
     .pantalla {
-        width: 100%;       /* que ocupe todo el ancho del móvil */
-        transform: scale(0.25);  /* escala proporcional */
-        transform-origin: top center; /* se centra arriba */
+        transform: scale(0.26);          /* escala proporcional */
+        transform-origin: top center;    /* centra desde arriba */
     }
 }

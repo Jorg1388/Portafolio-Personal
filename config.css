@@ -4,12 +4,13 @@
     box-sizing: border-box;
 }
 
-body{ 
-    margin: auto;
-    border-radius: 20px;
-}
-
 html {
     font-size: 10px;
     font-family: monospace;
+}
+
+@media (max-width: 768px) {
+  body {
+    zoom: 0.26; /* Ajusta el valor según lo que se vea bien */
+  }
 }
